@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheRickAndMortyAPI</string>
+    <string name="name">Name:</string>
+    <string name="status">Status:</string>
+    <string name="species">Species:</string>
+    <string name="gender">Gender:</string>
+    <string name="origin">Origin:</string>
+    <string name="location">Location:</string>
+    <string name="getting_characters">Getting characters</string>
+</resources>
